@@ -1,6 +1,6 @@
 var week = ["周日", "周一", "周二", "周三", "周四", "周五", "周六"];
-var weeken = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
-var weekjp = ["日 | Nichi", "月 | Getsu", "火 | Ka", "水 | Sui", "木 | Moku", "金 | Kin", "土 | Do"];
+var weeken = ["Sun.", "Mon.", "Tues.", "Wed.", "Thurs.", "Fri.", "Sat."];
+var weekjp = ["日", "月", "火", "水", "木", "金", "土"];
 var schd = [[], [], [], [], [], [], []];
 var szClsBgnTime = [[], []], szClsOvrTime = [[], []];
 var timeDest = new Date("1970/01/01");
